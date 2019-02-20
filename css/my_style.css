@@ -1,0 +1,485 @@
+body> header .nav_one{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #f9f9f9;
+    padding-left: 50px;
+    padding-right: 50px
+}
+body> header .nav_one form label{
+    color: #aeadae;
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+}
+body> header .nav_one form .form-control,
+body> header .nav_one form .input-group-text{
+    border: none;
+    background-color: white;
+    height: 50px
+}
+body> header .nav_one form .form-control{
+    width: 200px;
+}
+body> header .nav_one form input[type=submit]{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-top: 18px
+}
+body> header .nav_one form input[type=submit]:hover{
+    background-color: #ff2c32
+}
+body> header .nav_one form .input-group{
+    border: #e5e5e5 1px solid
+}
+body> header .nav_one > div > div:first-child img{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 40px
+}
+body > header .nav_two{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white
+}
+body > header .nav_two .sigle img{
+    width: 200px;
+    height: 90px
+}
+body > header .nav_two .search_box{
+    padding-top: 20px
+}
+body > header .nav_two .search_box .input-group{
+    width: 500px;
+    border: #e5e5e5 1px solid;
+}
+body > header .nav_two .search_box .form-control{
+    background-color: transparent;
+    border: none;
+    height: 50px
+}
+body > header .nav_two .search_box .input-group-text{
+    background-color: transparent;
+    border: none;
+    background-color: black;
+    height: 50px;
+}
+body > header .nav_two .search_box .input-group-text img{
+    width: 25px;
+    height: 25px
+}
+body > header .nav_two > div > div:last-child img{
+    width: 23px;
+    height: 23px;
+    display: inline-block;
+    margin-right: 40px;
+    margin-top: 35px;
+    cursor: pointer
+}
+body > header .nav_three{
+    background-color: #2a2a2a;
+    height: 60px
+}
+body > header .nav_three .nav_bar .nav_bar_item{
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+    color: white;
+    font-size: 13px
+}
+
+body > header .nav_three .nav_bar .nav_bar_item:hover{
+    background-color: #444444;
+}
+body > header .nav_three .nav_bar .nav_bar_item:first-child{
+    background-color: #444444;
+    color:  #ff2c32
+}
+body > header .nav_three .nav_bar .nav_bar_item .drop_down{
+    width: 10px;
+    height: 10px;
+    float: right;
+    margin-left: 20px;
+    margin-top: 8px
+}
+body > header .nav_three .nav_bar .nav_bar_item > div{
+    position: relative;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+body > header .nav_three .nav_bar .nav_bar_item .sub_menu{
+    width: 200px;
+    background-color: #2a2a2a;
+    color: #dedede;
+    padding: 30px;
+    font-size: 15px;
+    display: none
+}
+body > header .nav_three .nav_bar .nav_bar_item .sub_menu .sub_menu_item{
+    margin-bottom: 15px
+}
+body > header .nav_three .nav_bar .nav_bar_item .sub_menu .sub_menu_item:hover{
+   color: #ff2c32
+}
+body > header .nav_three .nav_bar .nav_bar_item .sub_menu .sub_menu_item strong{
+    font-weight: normal
+}
+body > header .nav_three .contact_nav ul{
+    padding: 0px;
+    list-style: none
+}
+body > header .nav_three .contact_nav ul li{
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 18px;
+    cursor: pointer;
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: normal;
+    color: white
+}
+body > header .nav_three .contact_nav ul li img{
+    float: left;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px
+}
+.article_grand_plant div[class*=col-]{
+    padding: 0px
+}
+.article_grand_plant .article_01 img{
+    width: 100%;
+    height: 550px
+}
+.article_grand_plant .article_02 img{
+    width: 100%;
+    height: 275px;
+}
+.article_grand_plant .article_02 > div > div > div:first-child{
+    background-color: #b6b6b6
+}
+.article_grand_plant .article_02 > div > div > div:last-child{
+    background-color: #d0ebf1
+}
+.article_grand_plant .desc{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    text-align: center
+}
+.article_grand_plant .desc div{
+    width: 100%
+}
+.article_grand_plant .desc .title{
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: bold;
+    color: white;
+    display: block
+}
+.article_grand_plant .desc .prise{
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: bold;
+    color: yellowgreen;
+    font-size: 45px;
+    display: block
+}
+.article_grand_plant .desc .sold{
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: bold;
+    color: white;
+    font-size: 55px;
+    display: block;
+    
+}
+.article_grand_plant .desc input{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    border: white 2px solid;
+    font-weight: bold;
+    color: white;
+    cursor: pointer
+    
+}
+
+
+.article_grand_plant .desc .title{
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: bold;
+    color: white;
+    display: block
+}
+.article_grand_plant .desc .prise{
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: bold;
+    color: yellowgreen;
+    font-size: 45px;
+    display: block
+}
+.article_grand_plant .article_01 .desc .sold{
+    font-size: 90px
+}
+.article_grand_plant .article_01 .desc input{
+    width: 250px;   
+}
+.lst_article{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px
+}
+.lst_article header{
+    font-family: "Raleway";
+    line-height: 26px;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #383838;
+    font-weight: bold;
+}
+.lst_article header ul{
+    padding: 0px;
+    list-style: none
+}
+.lst_article header ul li{
+    display: inline-block;
+    margin-right: 20px
+}
+.lst_article header a{
+    color: #383838
+}
+.lst_article .lst_article_line{
+    margin-top: 80px
+}
+.lst_article .item{
+    width: 280px;
+    text-align: center;
+    margin-top: 20px
+}
+.lst_article .item .article_image{
+    padding: 5px
+}
+.lst_article .item .article_image > img{
+    width: 100%;
+    height: 400px;
+}
+.lst_article .item button{
+    width: 100%;
+    height: 40px;
+    background-color: #ff2c32;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer
+}
+.lst_article .item button img{
+    float: left;
+    width: 25px;
+    height: 25px;
+}
+.lst_article .item .article_image{
+    position: relative;
+}
+.lst_article .item .article_image .desc{
+    margin: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(199,199,199,.45);
+    padding: 10px;
+    cursor: pointer
+}
+.lst_article .item .article_image .desc div{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+.lst_article .item .article_image .desc div:hover{
+    background-color: #ff2c32
+}
+.lst_article .item .article_image .desc div img{
+    width: 100%;
+    height: 100%;
+}
+.lst_article .item .title{
+    margin-top: 25px;
+    font-family: "Raleway";
+    font-weight: normal;
+    display: block
+}
+.lst_article .item .prise{
+    font-family: "Raleway";
+    font-weight: bold;
+    font-size: 25px;
+    color: yellowgreen
+}
+body > header .nav_one .mobile_links_user{
+    display: none;
+    text-align: right;
+    padding-top: 10px
+}
+body > header .nav_one .mobile_links_user a{
+    font-family: "Raleway";
+    color: #808080;
+    font-weight: bold
+}
+body > header .nav_one .mobile_links_user a + a{
+    margin-left: 10px
+}
+body > header .nav_two > div > div:last-child .search_icon_mobile{
+    display: none
+}
+#nav_bar_menu_icon{
+    display: none;
+    padding-top: 30px
+}
+#nav_bar_menu_icon img{
+    width: 40px;
+    height: 35px;
+}
+#mobile_nav_effect_backgroud{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(199,199,199,.80);
+    z-index: 8000;
+    display: none
+}
+@media(min-width: 950px){
+    body > header .nav_three .nav_bar .nav_bar_item .sub_menu{
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 8000;    
+    }
+    body > header .nav_three .nav_bar .nav_bar_item > div{
+        height: 60px;
+    }
+}
+@media(max-width: 950px){
+    body > header .nav_one form{
+        display: none
+    }
+    body > header .nav_one .mobile_links_user{
+        display: block
+    }
+    body> header .nav_one{
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: #b6b6b6 1px solid
+    }
+    body> header .nav_one > div > div:first-child img{
+        margin-top: 5px
+    }
+    body > header .nav_two{
+        padding-left: 30px;
+        padding-right: 30px
+    }
+    body > header .nav_two > div > div:last-child .search_icon_mobile{
+        display: inline-block
+    }
+    body > header .nav_two .search_box{
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 200px;
+        z-index: 9000;
+        padding: 10px;
+        display: none
+    }
+    body > header .nav_two .search_box .input-group{
+        width: 100%
+    }
+    body > header .nav_two .search_box .form-control{
+        background-color: white
+    }
+    #nav_bar_menu_icon{
+        display: inline-block
+    }
+    body > header .nav_two > div > div:last-child img{
+        margin-right: 5px
+    }
+    .lst_article .item{
+        margin: auto;
+        margin-bottom: 50px
+    }
+    body > header .nav_three{
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        z-index: 9000;
+        width: 300px;
+        height: 100%;
+        background-color: black;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        display: none
+    }
+    body > header .nav_three .nav_bar{
+        width: 100%
+    }
+    body > header .nav_three .nav_bar .nav_bar_item{
+        display: block;
+        width: 100%;
+        margin-top: 15px
+    }
+    body > header .nav_three .nav_bar .nav_bar_item .sub_menu{
+        width: 100%
+    }
+    body > header .nav_three .nav_bar .nav_bar_item > div{
+        min-height: 60px
+    }
+    
+}
+
+
